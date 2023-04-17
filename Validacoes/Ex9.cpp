@@ -1,0 +1,1 @@
+// Escreva um programa que pede ao usuário para digitar um número de telefone no formato "(ddd) nnnn-nnnn" e verifique se é um número de telefone válido.

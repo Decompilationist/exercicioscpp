@@ -1,0 +1,1 @@
+// Crie um programa que leia uma lista de números e imprima a média aritmética da lista.

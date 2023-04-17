@@ -1,0 +1,1 @@
+// Escreva um programa que pede ao usuário para digitar uma senha e verifique se ela atende aos requisitos de segurança (por exemplo, tem pelo menos 8 caracteres, inclui letras maiúsculas e minúsculas e números).

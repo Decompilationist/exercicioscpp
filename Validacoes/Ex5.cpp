@@ -1,0 +1,1 @@
+// Escreva um programa que pede ao usuário para digitar uma hora no formato "hh:mm:ss" e verifique se é uma hora válida (por exemplo, 25:30:00 não é uma hora válida).

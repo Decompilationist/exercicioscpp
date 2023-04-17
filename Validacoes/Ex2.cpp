@@ -1,0 +1,1 @@
+// Escreva um programa que pede ao usuário para digitar sua idade e verifique se a idade é um número inteiro válido (ou seja, não é um número decimal ou uma string).

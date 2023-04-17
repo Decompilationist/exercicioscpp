@@ -1,0 +1,1 @@
+// Escreva um programa que pede ao usuário para digitar uma senha e verifique se ela é igual à senha armazenada em um arquivo de configuração.

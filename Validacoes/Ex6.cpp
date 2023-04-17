@@ -1,0 +1,1 @@
+// Escreva um programa que pede ao usuário para digitar uma string e verifique se a string contém apenas letras (sem números ou símbolos).
